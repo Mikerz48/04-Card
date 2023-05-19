@@ -1,0 +1,32 @@
+.card{
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    max-width: 220px;
+    margin: 0 auto;
+}
+.greypic{
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    width: 100%;
+    height: 125px;
+
+}
+.items > ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.items li, .links {
+    border-top: 1px solid lightgray;
+    padding: 5px 10px;
+}
+.links {
+    margin: 0;
+    padding: 10px;
+}
+.container {
+    padding-inline: 10px;
+}
+.links a {
+    padding-right: 5px;
+}
